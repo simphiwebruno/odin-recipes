@@ -1,0 +1,15 @@
+.pizza, .cannoli, .shake{
+    text-align: center;
+}
+
+shake.html {
+    background-color: lightpink;
+}
+ul {
+    list-style-type: none;
+    list-style-position: initial;
+}
+
+* {
+    background-color: burlywood;
+}
